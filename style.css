@@ -50,9 +50,6 @@ header::after {
     top: 0;
     left: 0;
     background: linear-gradient(180deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0) 50%);
-    opacity: 1;
-    transition: all 0.5s;
-    -webkit-transition: all 0.5s;
 }
 
 .menu {
